@@ -21,10 +21,10 @@
 		<label for="my-drawer" class="drawer-overlay" />
 		<ul class="menu p-4 overflow-y-auto w-80 bg-base-100 text-base-content">
 			<!-- Sidebar content here -->
-			<button class="btn" on:click={() => console.log("exampleButtonOne button clicked")}><li><a>{exampleButtonOne}</a></li></button
-			>
-			<button class="btn" on:click={() => console.log("exampleButtonTwo button clicked")}><li><a>{exampleButtonTwo}</a></li></button>
-			<button class="btn" on:click={() => console.log("exampleButtonThree button clicked")}><li><a>{exampleButtonThree}</a></li></button>
+			<li><button class="btn" on:click={() => console.log("exampleButtonOne button clicked")}><a href='/'>{exampleButtonOne}</a></button></li>
+			
+			<li><button class="btn" on:click={() => console.log("exampleButtonTwo button clicked")}><a href='/'>{exampleButtonTwo}</a></button></li>
+			<li><button class="btn" on:click={() => console.log("exampleButtonThree button clicked")}><a href='/'>{exampleButtonThree}</a></button></li>
 			<!-- These are loading buttons -->
 			<progress class="progress w-288 h-12"> In Progress</progress> 
 			<progress class="progress w-288 h-12">In Progress</progress>
