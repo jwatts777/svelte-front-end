@@ -1,5 +1,6 @@
 <script>
 	import NavBar from '../NavBar/+page.svelte';
+	import MainPage from '../MainPage/page.svelte';
 
 	let exampleButtonOne = 'Your Website'
 	let exampleButtonTwo = 'Your Svelte Project'
@@ -11,6 +12,7 @@
 	<div class="drawer-content">
 		<!-- Page content here -->
 		<NavBar />
+		<MainPage></MainPage>
 		
 		
 		
