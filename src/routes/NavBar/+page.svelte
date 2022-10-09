@@ -18,7 +18,7 @@
 
     <div class="flex-none px-2 mx-2 lg:flex">
         <div class="flex items-stretch">
-            <a href="./About" class="btn">{exampleLinkButtonValue}</a>
+            <a href="/About" class="btn">{exampleLinkButtonValue}</a>
         </div>
     </div>
 </div>
