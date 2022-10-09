@@ -1,3 +1,16 @@
+##Benefits of Building with Svelte
+
+- 💨 Blazing-Fast Production Sites
+- 🛠️ SSR, SPA, SSG, and In-Between
+- ⚡️ Instantly Visible Code Changes
+- 🔩 Existing Universe of Plugins
+- 🔑 Fully Typed APIs
+
+##Usage Case for TailwindCSS
+-TailwindCSS has open-source leading documentation, and with Svelte is extremely performant.
+
+##Usage Case for DaisyUI
+-Daisy UI is framework Agnostic with solid example components that are copy-paste
 # SvelteKit
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte), deployed to [Vercel](https://vercel.com).
