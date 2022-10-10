@@ -1,6 +1,6 @@
 <div class='grid'>
-<div class='text-8xl mx-auto'>MainPage Example</div>
-<div class='text-8xl mx-auto'>2nd Title</div>
+<div class='text-5xl sm:text-8xl mx-auto'>MainPage Example</div>
+<div class='text-5xl sm:text-8xl mx-auto'>2nd Title</div>
 <div class='grid-auto h-128 mx-auto'>
     <div class="card w-96 bg-base-100 shadow-xl">
         <div class="card-body">
