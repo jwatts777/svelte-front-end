@@ -1,4 +1,4 @@
-##Benefits of Building with Svelte
+## Benefits of Building with Svelte
 
 - 💨 Blazing-Fast Production Sites
 - 🛠️ SSR, SPA, SSG, and In-Between
@@ -6,10 +6,10 @@
 - 🔩 Existing Universe of Plugins
 - 🔑 Fully Typed APIs
 
-##Usage Case for TailwindCSS
+## Usage Case for TailwindCSS
 -TailwindCSS has open-source leading documentation, and with Svelte is extremely performant.
 
-##Usage Case for DaisyUI
+## Usage Case for DaisyUI
 -Daisy UI is framework Agnostic with solid example components that are copy-paste
 # SvelteKit
 
