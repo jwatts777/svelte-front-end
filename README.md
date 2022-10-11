@@ -22,6 +22,14 @@ npm i
 npm audit (good practice imo)
 ```
 
+## DEV
+
+```
+npm run dev
+```
+[Local: http://xxx.x.x.x:5174/ ](https:/ "Open Dev Server")
+- Click ^
+
 # SvelteKit
 
 ## Vercel Deployment
