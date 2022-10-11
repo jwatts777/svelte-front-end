@@ -17,6 +17,9 @@
 
 ```
 git clone https://github.com/jwatts777/svelte-front-end.git
+cd svelte-front-end
+npm i
+npm audit (good practice imo)
 ```
 
 # SvelteKit
