@@ -26,9 +26,10 @@ npm audit (good practice imo)
 
 ```
 npm run dev
+Local: http://xxx.x.x.x:5174/ 
 ```
-[Local: http://xxx.x.x.x:5174/ ](https:/ "Open Dev Server")
-- Click ^
+
+
 
 # SvelteKit
 
